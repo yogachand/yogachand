@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning embedded system design 
 - 💞️ I’m looking to collaborate on autonomous system
 - 📫 How to reach me by yogachandpasupuleti@gmail.com
-- 😄 Pronouns: Yoga
+- 😄 Pronouns: he
 - ⚡ Fun fact: like to watch movies and likes playing cricket
 
 <!---
