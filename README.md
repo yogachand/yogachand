@@ -21,7 +21,7 @@ Previously contributed to the **European Rover Challenge (ERC) 2025** at DFKI Br
 `ROS2` `Nav2` `SLAM Toolbox` `AMCL` `TF2` `URDF` `Gazebo` `RViz2` `ros2_control` `MoveIt2`
 
 **Embedded Systems**  
-`STM32F407 (register-level C/C++)` `FPGA/Zynq SoC (VHDL, AXI-Lite)` `UART` `SPI` `I2C` `CAN` `Ethernet`
+`STM32F407 (register-level C/C++)` `UART` `SPI` `I2C` `CAN` `Ethernet`
 
 **State Estimation & Control**  
 `Kalman Filter` `Extended Kalman Filter` `State-Space Modeling` `Digital Control Systems`
